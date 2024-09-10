@@ -1,5 +1,8 @@
 # Hola! Soy [LuDev](https://www.youtube.com/@codewithludev) 👋
-![Banner](./banner.png)
+<p align="center">
+    <img src="./banner.png">
+</p>
+
 
 <p>
     <a href="https://www.youtube.com/@codewithludev" target="_blank">
