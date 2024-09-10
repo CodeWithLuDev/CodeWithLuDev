@@ -1,13 +1,32 @@
 # Hola! Soy [LuDev](https://www.youtube.com/@codewithludev) 👋
+![Banner](./banner.png)
+
+<p>
+    <a href="https://www.youtube.com/@codewithludev" target="_blank">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/codewithludev" target="_blank">
+        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/codewithludev/" target="_blank">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="#" target="_blank">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://www.tiktok.com/@codewithludev" target="_blank">
+        <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+    </a>
+</p>
+
+
+
 Bienvenidos a mi Perfíl de Github! <br>
-Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de <img src="./image.png" width="13"/> Argentina. 
+Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentina <img src="./image.png" width="13"/>
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 
+
+## 📹 Ultimos videos de mi [canal de YouTube](https://www.youtube.com/@codewithludev)
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Python para Principiantes: Domina los Strings Como un Pro](https://ytcards.demolab.com/?id=Q0mNX18mm2E&title=Python+para+Principiantes%3A+Domina+los+Strings+Como+un+Pro&lang=en&timestamp=1725908412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python para Principiantes: Domina los Strings Como un Pro")](https://www.youtube.com/watch?v=Q0mNX18mm2E)
 [![Python para Principiantes: Trabajando con Datos Numéricos](https://ytcards.demolab.com/?id=dikq_p3TO-g&title=Python+para+Principiantes%3A+Trabajando+con+Datos+Num%C3%A9ricos&lang=en&timestamp=1725649220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python para Principiantes: Trabajando con Datos Numéricos")](https://www.youtube.com/watch?v=dikq_p3TO-g)
@@ -16,10 +35,11 @@ Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de <img src
 [![Estructuras de Control: CONDICIONALES - Aprende cómo toman decisiones las aplicaciones](https://ytcards.demolab.com/?id=V838-SVGSN0&title=Estructuras+de+Control%3A+CONDICIONALES+-+Aprende+c%C3%B3mo+toman+decisiones+las+aplicaciones&lang=en&timestamp=1724894165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Estructuras de Control: CONDICIONALES - Aprende cómo toman decisiones las aplicaciones")](https://www.youtube.com/watch?v=V838-SVGSN0)
 [![Variables](https://ytcards.demolab.com/?id=KI92skR67lk&title=Variables&lang=en&timestamp=1724809630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Variables")](https://www.youtube.com/watch?v=KI92skR67lk)
 <!-- END YOUTUBE-CARDS -->
-___
+
+
 ### 🔧 Todas las Herramientas que uso/usé:
 
-### 🧑‍💻 Lenguajes 
+🧑‍💻 Lenguajes 
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,14 +49,14 @@ ___
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 💾 Databases
+💾 Databases
 ---
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### 📚 Frameworks, Plataformas y Librerias
+📚 Frameworks, Plataformas y Librerias
 ---
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -62,24 +82,10 @@ ___
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### 🎨 Diseño
+🎨 Diseño
 ---
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-<!--
-**CodeWithLuDev/CodeWithLuDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
