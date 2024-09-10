@@ -4,7 +4,7 @@
 </p>
 
 
-<p>
+<p align="center">
     <a href="https://www.youtube.com/@codewithludev" target="_blank">
         <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
     </a>
