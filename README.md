@@ -1,6 +1,9 @@
-# Hola! Soy [LuDev](https://www.youtube.com/@codewithludev) 👋
+<h1 align="center">¡Bievenido/a! <img src="./assets/kirby.gif" width="30" style="vertical-align: bottom;"/></h1>
+
+
+
 <p align="center">
-    <img src="./banner.png">
+    <img src="./assets/banner.png">
 </p>
 
 
@@ -23,9 +26,10 @@
 </p>
 
 
-
 Bienvenidos a mi Perfíl de Github! <br>
-Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentina <img src="./image.png" width="13"/>
+Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentina <img src="./assets/arg.png" width="13"/>
+
+
 
 > ⭐ ¿Te gustaría aprender a programar desde cero de una forma fácil y divertida? 🚀
 >
@@ -43,11 +47,8 @@ Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentin
 [![Variables](https://ytcards.demolab.com/?id=KI92skR67lk&title=Variables&lang=en&timestamp=1724809630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Variables")](https://www.youtube.com/watch?v=KI92skR67lk)
 <!-- END YOUTUBE-CARDS -->
 
-<p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ4cTFzY29lczVkMG5haHJrNWNiNjlodG5rY2JkNjg3dGZlaWpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.webp" width="250">
-</p>
-
-### 🔧 Todas las Herramientas que uso/usé:
+___
+### Todas las Herramientas que uso/usé:
 
 🧑‍💻 Lenguajes 
 ---
@@ -106,3 +107,4 @@ Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentin
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
