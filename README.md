@@ -27,6 +27,10 @@
 Bienvenidos a mi Perfíl de Github! <br>
 Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentina <img src="./image.png" width="13"/>
 
+> ⭐ ¿Te gustaría aprender a programar desde cero de una forma fácil y divertida? 🚀
+>
+> Te invito a visitar mi canal de [YouTube](https://www.youtube.com/@codewithludev), donde comparto contenido gratuito y accesible para que puedas empezar sin complicaciones. ¡Echa un vistazo aquí abajo! 👇
+
 
 
 ## 📹 Ultimos videos de mi [canal de YouTube](https://www.youtube.com/@codewithludev)
@@ -39,6 +43,9 @@ Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentin
 [![Variables](https://ytcards.demolab.com/?id=KI92skR67lk&title=Variables&lang=en&timestamp=1724809630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Variables")](https://www.youtube.com/watch?v=KI92skR67lk)
 <!-- END YOUTUBE-CARDS -->
 
+<p align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ4cTFzY29lczVkMG5haHJrNWNiNjlodG5rY2JkNjg3dGZlaWpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.webp" width="250">
+</p>
 
 ### 🔧 Todas las Herramientas que uso/usé:
 
@@ -75,6 +82,13 @@ Soy Lucas, <b>Desarrollador Python</b> y <b>Creador de Contenido</b> de Argentin
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+
+🕓 Control de Versiones
+---
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 🖥️ML/DL
 ---
