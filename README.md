@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/codewithludev/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
-    <a href="#" target="_blank">
+    <a href="https://discord.gg/areTaX7m" target="_blank">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://www.tiktok.com/@codewithludev" target="_blank">
