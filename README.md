@@ -11,18 +11,6 @@
     <a href="https://www.youtube.com/@codewithludev" target="_blank">
         <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
     </a>
-    <a href="https://www.facebook.com/codewithludev" target="_blank">
-        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/codewithludev/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href="https://discord.gg/areTaX7m" target="_blank">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://www.tiktok.com/@codewithludev" target="_blank">
-        <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
-    </a>
 </p>
 
 
